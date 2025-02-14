@@ -1,4 +1,4 @@
-## 🔢 Pension Calculation Program
+## 🔢 Pension Calculation Program - Project in Programming
 
 **👩‍💻 Overview**
 
